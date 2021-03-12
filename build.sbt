@@ -20,7 +20,7 @@ parallelExecution in Test := false
 libraryDependencies += "com.typesafe.scala-logging" %% "scala-logging"   % "3.9.2"
 libraryDependencies += "ch.qos.logback"              % "logback-classic" % "1.2.3"
 
-libraryDependencies += "org.antlr"      % "antlr4"    % "4.8-1"
+libraryDependencies += "org.antlr"      % "antlr4"    % "4.9.2"
 libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.1" % "test"
 
 libraryDependencies ++= Seq(
