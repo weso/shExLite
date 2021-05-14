@@ -31,6 +31,6 @@ libraryDependencies ++= Seq(
 libraryDependencies += "org.wvlet.airframe" %% "airframe-log" % "20.9.0"
 libraryDependencies += "io.cucumber" % "cucumber-core" % "2.4.0"
 libraryDependencies += "io.cucumber" %% "cucumber-scala" % "6.1.1" % Test
-libraryDependencies += "io.cucumber" % "cucumber-junit" % "6.7.0" % Test
+libraryDependencies += "io.cucumber" % "cucumber-junit" % "6.10.4" % Test
 
 coverageExcludedPackages := "compiler.es.weso.shexlc.parse.generated.*"
