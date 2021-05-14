@@ -21,7 +21,7 @@ libraryDependencies += "com.typesafe.scala-logging" %% "scala-logging"   % "3.9.
 libraryDependencies += "ch.qos.logback"              % "logback-classic" % "1.2.3"
 
 libraryDependencies += "org.antlr"      % "antlr4"    % "4.8-1"
-libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.1" % "test"
+libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.9" % "test"
 
 libraryDependencies ++= Seq(
   "org.backuity.clist" %% "clist-core"   % "3.5.1",
