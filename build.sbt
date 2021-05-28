@@ -2,7 +2,7 @@ name := "shExLite"
 
 version := "0.1"
 
-lazy val scala212 = "2.12.10"
+lazy val scala212 = "2.12.14"
 lazy val scala213 = "2.13.1"
 scalaVersion in ThisBuild := scala213
 crossScalaVersions := Seq(scala212, scala213)
